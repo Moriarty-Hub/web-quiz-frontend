@@ -1,0 +1,28 @@
+nav {
+    width: 100%;
+    position: fixed;
+    background-color: darkblue;
+}
+
+nav ul {
+    list-style: none;
+    float: left;
+}
+
+nav ul li {
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline;
+}
+
+a {
+    color: white;
+}
+
+.home {
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+
